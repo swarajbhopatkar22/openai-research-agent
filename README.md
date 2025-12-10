@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # openai-research-agent
 An AI research assistant built with the OpenAI Agents SDK and Streamlit. It takes a user query, uses multiple AI agents to search, analyze, and summarize information from the web, and shows the results in an interactive web app.
 =======
@@ -45,11 +44,9 @@ export OPENAI_API_KEY='your-api-key-here'
 streamlit run openai_researcher_agent.py
 ```
 
-Then open your browser and navigate to the URL shown in the terminal (typically http://localhost:8501).
-
 ### Research Process:
 - Enter a research topic in the sidebar or select one of the provided examples
 - Click "Start Research" to begin the process
 - View the research process in real-time on the "Research Process" tab
 - Once complete, switch to the "Report" tab to view and download the generated report
->>>>>>> 5cd5aa0 (Initial commit: OpenAI research agent)
+
